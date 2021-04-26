@@ -1,3 +1,7 @@
 [submodule "PhysIKA_Web_SPlisHSPlash"]
 	path = PhysIKA_Web_SPlisHSPlash
 	url = https://github.com/liyunfei18/PhysIKA_Web_SPlisHSPlash.git
+[submodule "physIKA_Cloud"]
+	path = physIKA_Cloud
+	url = https://gitee.com/szmybs/physIKA_Cloud.git
+	branch = physika
