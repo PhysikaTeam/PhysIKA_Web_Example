@@ -43,5 +43,3 @@ ws = new WebSocket('ws://localhost:8888/');
 需要根据服务器ip更改websocket的连接地址，本地默认为：localhost:8888
 
 src_server目录下的websocket.js文件中的queryCountMax参数为预取缓存机制中轮询的次数，每次间隔1秒钟，超出设定的最大次数后会产生预取超时的响应，可根据电脑性能和仿真时间进行调整。
-
-测试用例在 ./data/test_case/ 中。
