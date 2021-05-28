@@ -4,13 +4,9 @@
 nodejs版本要求14.16.0
 
 把项目clone到本地目录
-```shell script
-git clone https://github.com/cenyc/Physika-web.git
-```
+
 进入clone文件目录
-```shell script
-cd Physika-web
-```
+
 安装所需到node_modules
 ```shell script
 npm install
